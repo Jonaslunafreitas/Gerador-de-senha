@@ -20,12 +20,12 @@ body {
     margin-bottom: 20px;
 }
 
-.conteiner-input {
+.container-input {
     max-width: 480px;
     margin: 14px 0;
 }
 
-.conteiner-input span {
+.container-input span {
     color: #fff;
     font-size: 22px;
 }
@@ -52,7 +52,7 @@ body {
     font-size: 18px;
 }
 
-.conteiner-password {
+.container-password {
     max-width: 480px;
     margin: 14px 0;
     display: flex;
@@ -99,7 +99,7 @@ body {
     transition: all 0.5s ease-in-out;
 }
 
-.conteiner-password:hover .tooltip {
+.container-password:hover .tooltip {
     visibility: visible;
     bottom: 50px;
     opacity: 1;
